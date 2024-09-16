@@ -1,0 +1,23 @@
+
+body{
+    background-color: #e5e5e5;
+}
+.container{
+    text-align: center;
+    font-family: "Roboto", system-ui;
+    margin-top: 150px;
+  
+}
+h1{
+    font-weight: 500;
+    font-style: normal;
+}
+h2{
+    font-weight: 400;
+    font-style: normal;
+
+}
+p{
+    font-weight: 300;
+    font-style: normal;
+}
